@@ -33,3 +33,9 @@
 29. [x] Decorator : Add Extra Functionality in Existing Function
 30. [x] File Handling
 31. [x] *args and **kwargs
+32. [ ] Reduce, Map and Filter
+33. [ ] Thread, MultiProcessing and AsyncIO
+34. [ ] Meta Class
+35. [ ] Singleton Class
+36. [ ] ClassMethod and Static Method
+37. [ ] Method Resolution Order
