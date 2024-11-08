@@ -53,3 +53,19 @@
 ### Design Patterns
 
 01. [ ] Singleton Pattern
+
+
+## Some Necessary Library or Packages
+
+01. NumPy
+02. Pandas
+03. SqlAlchemy
+04. PyLint
+05. Mocking
+06. PyTest
+
+## Some Necessary FrameWorks
+
+01. Django
+02. Flask
+03. FastAPI
