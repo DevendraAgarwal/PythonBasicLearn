@@ -1,0 +1,1 @@
+# Reduce Function in Python
