@@ -49,7 +49,8 @@
 08. [x] File Handling
 09. [x] *args and **kwargs
 10. [ ] Reduce, Map and Filter
-11. [ ] Thread, MultiProcessing and AsyncIO
+11. [ ] Dict Comprehension : Create Dictionary
+12. [ ] Thread, MultiProcessing and AsyncIO
 
 ### Design Patterns
 

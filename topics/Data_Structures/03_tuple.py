@@ -7,6 +7,16 @@
 -> In Simple Words It is Constant List With So Many Limitation
 """
 
+'''
+Use Cases for Tuples in Python:
+
+Data Storage: Store fixed, immutable data, such as configuration settings 
+    or metadata.
+Function Return Values: Return multiple values from a function as a tuple.
+Data Structures: Use tuples as building blocks for more complex data structures,
+    such as graphs or trees.
+'''
+
 tup = ("345", 345)
 print(tup)
 
