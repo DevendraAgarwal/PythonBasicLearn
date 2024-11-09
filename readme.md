@@ -39,19 +39,21 @@
 
 ### Advance Features
 
-01. [ ] Ternary Operator : Single Line Condition
+01. [x] Ternary Operator : Single Line Condition
 02. [x] List Comprehension : Single Line Loop
 03. [x] Walrus Operator : Single Line Loop Incremental
 04. [x] lambda Function : Single Line Function
 05. [x] Iterator : iter & __iter__ , __next__
-06. [ ] Generator : use of yield
+06. [x] Generator : use of yield
 07. [x] Decorator : Add Extra Functionality in Existing Function
 08. [x] File Handling
 09. [x] *args and **kwargs
-10. [ ] Reduce, Map and Filter
-11. [ ] Dict Comprehension : Create Dictionary
-12. [ ] Thread, MultiProcessing and AsyncIO
-13. [ ] enumerate
+10. [x] Reduce, Map and Filter
+11. [x] Dict Comprehension : Create Dictionary
+12. [x] Thread
+13. [x] MultiProcessing
+14. [x] AsyncIO
+15. [x] Enumerate
 
 ### Design Patterns
 
