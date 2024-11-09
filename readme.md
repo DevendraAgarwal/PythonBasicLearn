@@ -12,6 +12,7 @@
 06. [x] Function Declaration
 07. [x] Exception Handling
 08. [x] Module Create and Import
+09. [x] Take User Input
 
 ### Data Structures
 
