@@ -3,11 +3,17 @@
 '''
 Key Characteristics:
 
-Unordered: Sets do not maintain any order of elements.
-Unique elements: Sets automatically remove duplicates,
-    ensuring each element appears only once.
-Mutable: Sets can be modified after creation by adding or removing elements.
-Hashable: Sets use hash tables for fast membership testing and set operations.
+Unordered:
+    Sets do not maintain any order of elements.
+
+Unique elements:
+    Sets automatically remove duplicates, ensuring each element appears only once.
+
+Mutable:
+    Sets can be modified after creation by adding or removing elements.
+
+Hashable:
+    Sets use hash tables for fast membership testing and set operations.
 '''
 
 """ 

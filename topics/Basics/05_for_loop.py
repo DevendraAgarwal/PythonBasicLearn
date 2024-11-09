@@ -6,18 +6,26 @@ for variable in iterable:
 '''
 Key Features
 
-Iteration: The for loop iterates over the elements of the iterable object.
-Variable assignment: Each iteration assigns the next element of 
-    the iterable to the variable specified.
-Body of the loop: The code inside the loop is executed for each iteration.
+Iteration:
+    The for loop iterates over the elements of the iterable object.
+
+Variable assignment:
+    Each iteration assigns the next element of the iterable to the variable specified.
+
+Body of the loop:
+    The code inside the loop is executed for each iteration.
 
 Advanced Topics
 
-Looping over multiple iterables: Use the zip() function to iterate over multiple 
-    sequences simultaneously.
-Looping with conditions: Use if statements or conditional expressions within the 
+Looping over multiple iterables:
+    Use the zip() function to iterate over multiple sequences simultaneously.
+
+Looping with conditions:
+    Use if statements or conditional expressions within the 
     loop body to control iteration.
-Breaking out of the loop: Use the break statement to exit the loop prematurely.
+
+Breaking out of the loop:
+    Use the break statement to exit the loop prematurely.
 '''
 
 fruits = ['apple', 'banana', 'cherry']
