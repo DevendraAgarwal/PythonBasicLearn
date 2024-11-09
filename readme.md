@@ -31,11 +31,11 @@
 05. [x] Polymorphism
 06. [x] Overriding and Overloading Of Method
 07. [x] Magic Method for Class : __add__ , __rep__ , __str__
-08. [x] Magic Method for Variable Object
-09. [x] Static Function & Variable : By Default a Class is Static
-10. [ ] Meta Class
-11. [ ] ClassMethod and Static Method
-12. [ ] Method Resolution Order
+08. [x] Static Variable
+09. [x] Static Function : By Default a Class is Static
+10. [x] ClassMethod and Static Method
+11. [x] Method Resolution Order
+12. [x] Meta Class
 
 ### Advance Features
 
@@ -51,6 +51,7 @@
 10. [ ] Reduce, Map and Filter
 11. [ ] Dict Comprehension : Create Dictionary
 12. [ ] Thread, MultiProcessing and AsyncIO
+13. [ ] enumerate
 
 ### Design Patterns
 
