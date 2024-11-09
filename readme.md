@@ -39,12 +39,12 @@
 
 ### Advance Features
 
-01. [x] Ternary Operator : Single Line Condition
+01. [ ] Ternary Operator : Single Line Condition
 02. [x] List Comprehension : Single Line Loop
 03. [x] Walrus Operator : Single Line Loop Incremental
 04. [x] lambda Function : Single Line Function
 05. [x] Iterator : iter & __iter__ , __next__
-06. [x] Generator : use of yield
+06. [ ] Generator : use of yield
 07. [x] Decorator : Add Extra Functionality in Existing Function
 08. [x] File Handling
 09. [x] *args and **kwargs
@@ -55,7 +55,12 @@
 
 ### Design Patterns
 
-01. [ ] Singleton Pattern
+01. [x] Singleton Pattern
+02. [x] Factory Pattern
+03. [x] Observer Pattern
+04. [x] Decorator Pattern
+05. [x] Facade Pattern
+06. [x] Proxy Pattern
 
 
 ## Some Necessary Library or Packages
