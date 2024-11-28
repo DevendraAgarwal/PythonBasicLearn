@@ -39,6 +39,7 @@
 
 ### Advance Features
 
+00. [ ] Common Functions
 01. [x] Ternary Operator : Single Line Condition
 02. [x] List Comprehension : Single Line Loop
 03. [x] Walrus Operator : Single Line Loop Incremental
@@ -54,6 +55,8 @@
 13. [x] MultiProcessing
 14. [x] AsyncIO
 15. [x] Enumerate
+16. [x] Shallow Copy vs Deep Copy
+17. [x] Generator Expression
 
 ### Design Patterns
 
@@ -63,6 +66,29 @@
 04. [x] Decorator Pattern
 05. [x] Facade Pattern
 06. [x] Proxy Pattern
+
+## Searching And Sorting
+
+01. [ ] Binary Search
+02. [ ] Linear Search
+03. [ ] Bubble Sort
+04. [ ] Heap Sort
+05. [ ] Merge Sort
+06. [ ] Quick Sort
+
+## Python Basic Libraries
+
+01. [ ] OS
+02. [ ] Calendar
+03. [ ] DateTime
+04. [ ] Collections
+05. [ ] Pickle
+
+## Coding Questions
+
+01. [x] Anagram Checker
+02. [x] Fibonacci Series
+03. [x] List Order Checker
 
 
 ## Some Necessary Library or Packages
