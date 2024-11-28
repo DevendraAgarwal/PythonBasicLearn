@@ -39,7 +39,7 @@
 
 ### Advance Features
 
-00. [ ] Common Functions
+00. [x] Common Functions
 01. [x] Ternary Operator : Single Line Condition
 02. [x] List Comprehension : Single Line Loop
 03. [x] Walrus Operator : Single Line Loop Incremental
@@ -57,6 +57,7 @@
 15. [x] Enumerate
 16. [x] Shallow Copy vs Deep Copy
 17. [x] Generator Expression
+18. [x] Non Local Statement 
 
 ### Design Patterns
 
@@ -69,8 +70,10 @@
 
 ## Searching And Sorting
 
-01. [ ] Binary Search
-02. [ ] Linear Search
+Quick Reference For Time and Space Complexity [Check Here](searching_sorting/algorithm_cheat_sheet.md)
+
+01. [x] Binary Search
+02. [x] Linear Search
 03. [ ] Bubble Sort
 04. [ ] Heap Sort
 05. [ ] Merge Sort
