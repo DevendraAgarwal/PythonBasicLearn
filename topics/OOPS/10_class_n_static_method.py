@@ -35,9 +35,9 @@ obj1.increment_count()  # also increments class-level count
 print(MyClass.count)  # prints 1
 
 MyClass.increment_count()  # increments class-level count
-print(MyClass.count)  # prints 3
+print(MyClass.count)  # prints 2
 
-obj1.increment_count()  # also increments class-level count
+obj2.increment_count()  # also increments class-level count
 print(MyClass.count)  # prints 3
 
 

@@ -41,7 +41,7 @@ print(s)
 s.add(100)
 print(s)
 
-# delete object from Set, It will Not KeyError Exception When Element not Present
+# delete object from Set, It will Raise KeyError Exception When Element not Present
 s.remove(100)
 print(s)
 

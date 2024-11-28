@@ -39,6 +39,7 @@ class MyClass(metaclass=AddAttributeMeta):
     pass
 
 print(MyClass.custom_attr)  # Output: Hello, World!
+print(type(MyClass))
 
 '''
 In this example, AddAttributeMeta is a meta class that adds a custom_attr 
