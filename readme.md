@@ -57,7 +57,8 @@
 15. [x] Enumerate
 16. [x] Shallow Copy vs Deep Copy
 17. [x] Generator Expression
-18. [x] Non Local Statement 
+18. [x] Non Local Statement
+19. [x] Monkey Patching
 
 ### Design Patterns
 
