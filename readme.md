@@ -75,10 +75,11 @@ Quick Reference For Time and Space Complexity [Check Here](searching_sorting/alg
 
 01. [x] Binary Search
 02. [x] Linear Search
-03. [ ] Bubble Sort
+03. [x] Bubble Sort
 04. [ ] Heap Sort
-05. [ ] Merge Sort
-06. [ ] Quick Sort
+05. [x] Merge Sort
+06. [x] Quick Sort
+07. [x] Insertion Sort
 
 ## Python Basic Libraries
 
