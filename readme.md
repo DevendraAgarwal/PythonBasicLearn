@@ -96,6 +96,9 @@ Quick Reference For Time and Space Complexity [Check Here](searching_sorting/alg
 01. [x] Anagram Checker
 02. [x] Fibonacci Series
 03. [x] List Order Checker
+04. [x] Max Product of Two Integers
+05. [x] Middle Function to get Middle List
+06. [x] Remove Duplicates
 
 
 ## Some Necessary Library or Packages
