@@ -60,7 +60,7 @@
 18. [x] Non Local Statement
 19. [x] Monkey Patching
 
-### Design Patterns
+## Design Patterns
 
 01. [x] Singleton Pattern
 02. [x] Factory Pattern
