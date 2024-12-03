@@ -4,7 +4,6 @@ def linear_search(arr, target):
     counter = 0
 
     for i in range(len(arr)):
-        counter += 1
 
         if arr[i] == target:
             return i, counter
@@ -18,10 +17,11 @@ def linear_search(arr, target):
             return -1, counter # not found
         
         last -= 1
-        
+        counter += 1
+
     return -1, counter  # not found
 
 numbers = [12, 7, 19, 3, 15, 25, 8, 10, 42, 56, 77, 23, 89, 65, 33, 99, 100]
-target = 10
+target = 65
 result, loop_trips = linear_search(numbers, target)
 print(result, loop_trips)  # Output: 7 , 1
