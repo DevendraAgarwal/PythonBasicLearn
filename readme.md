@@ -80,6 +80,7 @@ Quick Reference For Time and Space Complexity [Check Here](searching_sorting/alg
 05. [x] Merge Sort
 06. [x] Quick Sort
 07. [x] Insertion Sort
+08. [x] Optimize Linear Search
 
 ## Python Basic Libraries
 
@@ -91,6 +92,7 @@ Quick Reference For Time and Space Complexity [Check Here](searching_sorting/alg
 
 ## Coding Questions
 
+00. [x] What is The Output (Dry Run)
 01. [x] Anagram Checker
 02. [x] Fibonacci Series
 03. [x] List Order Checker
