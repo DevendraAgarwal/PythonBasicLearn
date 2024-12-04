@@ -99,19 +99,4 @@ Quick Reference For Time and Space Complexity [Check Here](searching_sorting/alg
 04. [x] Max Product of Two Integers
 05. [x] Middle Function to get Middle List
 06. [x] Remove Duplicates
-
-
-## Some Necessary Library or Packages
-
-01. NumPy
-02. Pandas
-03. SqlAlchemy
-04. PyLint
-05. Mocking
-06. PyTest
-
-## Some Necessary FrameWorks
-
-01. Django
-02. Flask
-03. FastAPI
+07. [x] Open Gate Problem
