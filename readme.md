@@ -59,6 +59,7 @@
 17. [x] Generator Expression
 18. [x] Non Local Statement
 19. [x] Monkey Patching
+20. [x] Context Manager
 
 ## Design Patterns
 
