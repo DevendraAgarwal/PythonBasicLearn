@@ -101,3 +101,5 @@ Quick Reference For Time and Space Complexity [Check Here](searching_sorting/alg
 05. [x] Middle Function to get Middle List
 06. [x] Remove Duplicates
 07. [x] Open Gate Problem
+08. [x] String Palindrome Check
+09. [x] Number Palindrome Check
