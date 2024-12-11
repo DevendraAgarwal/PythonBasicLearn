@@ -1,11 +1,11 @@
 
-def check_list(myList: list):
+def check_list(my_list: list):
     asc = False
     desc = False
-    for i in range(len(myList)-1):
-        if (myList[i] < myList[i+1]):
+    for i in range(len(my_list)-1):
+        if (my_list[i] < my_list[i+1]):
             asc = True
-        elif(myList[i] > myList[i+1]):
+        elif(my_list[i] > my_list[i+1]):
             desc = True
             
     if (asc and desc):

@@ -103,3 +103,7 @@ Quick Reference For Time and Space Complexity [Check Here](searching_sorting/alg
 07. [x] Open Gate Problem
 08. [x] String Palindrome Check
 09. [x] Number Palindrome Check
+10. [x] Find Missing Number in A List
+11. [x] Find All Palindrome SubString in a String
+12. [x] Find Second Max Value In List
+13. [x] Two Sum Array Problem
