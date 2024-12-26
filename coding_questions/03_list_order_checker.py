@@ -1,13 +1,15 @@
-
-def check_list(my_list: list):
+def check_list(my_list: list):   
     asc = False
-    desc = False
+    desc = False 
     for i in range(len(my_list)-1):
         if (my_list[i] < my_list[i+1]):
             asc = True
         elif(my_list[i] > my_list[i+1]):
             desc = True
-            
+    
+    return check_order(asc, desc)
+
+def check_order(asc: bool, desc: bool):      
     if (asc and desc):
         return "Unordered List"
     elif(asc and (not desc)):
