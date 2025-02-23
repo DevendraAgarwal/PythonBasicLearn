@@ -83,13 +83,17 @@ Quick Reference For Time and Space Complexity [Check Here](searching_sorting/alg
 07. [x] Insertion Sort
 08. [x] Optimize Linear Search
 
-## Python Basic Libraries
+## Python Useful Libraries
 
 01. [ ] OS
 02. [ ] Calendar
 03. [ ] DateTime
 04. [ ] Collections
 05. [ ] Pickle
+06. [x] FuncTools [Documentation](https://docs.python.org/3/library/functools.html)
+07. [x] [UnitTest](basic_libraries/07_unittest/readme.md) [Documentation](https://docs.python.org/3/library/unittest.html)
+08. [ ] CPython
+09. [ ] CProfile
 
 ## Coding Questions
 
