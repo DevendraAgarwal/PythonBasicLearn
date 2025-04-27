@@ -51,15 +51,21 @@
 09. [x] *args and **kwargs
 10. [x] Reduce, Map and Filter
 11. [x] Dict Comprehension : Create Dictionary
-12. [x] Thread
-13. [x] MultiProcessing
-14. [x] AsyncIO
-15. [x] Enumerate
-16. [x] Shallow Copy vs Deep Copy
-17. [x] Generator Expression
-18. [x] Non Local Statement
-19. [x] Monkey Patching
-20. [x] Context Manager
+12. [x] Enumerate
+13. [x] Shallow Copy vs Deep Copy
+14. [x] Generator Expression
+15. [x] Non Local Statement
+16. [x] Monkey Patching
+17. [x] Context Manager
+18. [x] Iterator vs Generator
+
+### MultiProcessing
+
+00. [x] Thread
+01. [x] MultiProcessing
+02. [x] AsyncIO
+03. [x] Thread Safe Class
+04. [x] Concurrency (Threads) In Parallelism (MultiProcessing)
 
 ## Design Patterns
 
