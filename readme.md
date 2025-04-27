@@ -65,7 +65,12 @@
 01. [x] MultiProcessing
 02. [x] AsyncIO
 03. [x] Thread Safe Class
-04. [x] Concurrency (Threads) In Parallelism (MultiProcessing)
+04. [x] Reentrant Lock (RLock)
+05. [x] Semaphore
+06. [x] Queue
+07. [x] Thread-Safe Task Manager With RLock, Semaphore and Queue
+08. [x] Concurrency (Threads) In Parallelism (MultiProcessing)
+09. [ ] Thread With Shared Memory
 
 ## Design Patterns
 
